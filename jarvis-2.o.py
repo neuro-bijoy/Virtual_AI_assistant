@@ -11,7 +11,7 @@ import pygame
 import io
 import queue
 
-# ================= CONFIG =================
+# ================= CONFIG ================
 OPENROUTER_API_KEY = "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"
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 
